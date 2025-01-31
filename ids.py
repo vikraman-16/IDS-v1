@@ -1,4 +1,4 @@
-#IDS V1
+#IDS V1 by Vikraman
 
 import scapy.all as scapy
 from scapy.all import DNS, DNSQR, DNSRR, IP, TCP, UDP, ARP
